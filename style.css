@@ -993,5 +993,6 @@ RESPONSIVE
     margin-top: 12px;
     display: flex;
     flex-direction: column;
+    text-align: center;
   }
 }
