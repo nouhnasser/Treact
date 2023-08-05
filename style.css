@@ -655,6 +655,13 @@ PRICING
     margin: 32px;
   }
 
+  .btn__price--2:hover {
+    transform: translatey(-5px);
+  }
+  .btn__price--2:active {
+    transform: translateY(1px);
+  }
+
   .btn__price--3 {
     border: none;
     font-size: 14px;
@@ -668,6 +675,12 @@ PRICING
     margin: 32PX;
   }
 
+  .btn__price--3:hover {
+    transform: translatey(-5px);
+  }
+  .btn__price--3:active {
+    transform: translateY(1px);
+  }
 /*
 
 TESTIMONIALS
